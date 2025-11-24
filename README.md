@@ -1,4 +1,4 @@
-here’s a brief explanation of what our code does:
+Here’s a brief explanation of what our code does:
 
 Upload & Extract Emails:
 The code lets you select a ZIP file containing .eml emails.
